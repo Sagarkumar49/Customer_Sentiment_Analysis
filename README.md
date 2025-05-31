@@ -77,3 +77,6 @@ This analysis provides a data-driven understanding of customer sentiment regardi
 
 ---
 
+## 📜 License 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)  
+Copyright © 2025 [Sagarkumar49](https://github.com/Sagarkumar49)
